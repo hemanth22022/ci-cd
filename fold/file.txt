@@ -1,0 +1,1 @@
+Welcome to the IT industry, hemanth! If you're new and just received your company laptop, here’s a simple step-by-step guide to get started with Git and clone a project:
