@@ -1,1 +1,4 @@
 Welcome to the IT industry, hemanth! If you're new and just received your company laptop, here’s a simple step-by-step guide to get started with Git and clone a project:
+This is a new line 
+Sure. My name is Hemanth. I have around 9 years of experience in DevOps engineering, focusing on automation, CI/CD pipelines, cloud infrastructure, and configuration management across AWS and Azure environments.
+At Macy's, I was responsible for managing AWS infrastructure provisioning EC2, VPC, ELB, Route 53, and setting up CI/CD pipelines using Jenkins integrated with Maven, SonarQube, JFrog Artifactory, and Ansible. I also worked with ECS, ECR, and automated deployments using Ansible and Terraform.
