@@ -1,1 +1,2 @@
 Welcome to the IT industry, hemanth! If you're new and just received your company laptop, here’s a simple step-by-step guide to get started with Git and clone a project:
+At Nike, I focused on Azure DevOps. I deployed applications into AKS using Helm, implemented Terraform and Azure Bicep for IaC, integrated security using Azure Security Center and Sentinel, and managed CI/CD pipelines using Azure Pipelines and GitHub Actions.
